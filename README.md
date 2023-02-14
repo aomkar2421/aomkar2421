@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aomkar2421/aomkar2421/blob/main/omkar%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Omkar Sanjay Jagtap</h1>
 <h3 align="center">A passionate frontend developer from India heading towards to be a full stack developer . Tired of Learning and now want to develope more & more projects.</h3>
 
