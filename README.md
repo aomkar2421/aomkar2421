@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomkar2421&label=Profile%20views&color=0e75b6&style=flat" alt="aomkar2421" /> </p>
 
-- 🔭 I’m currently working on app cloning **Insta_clone**
+- 🔭 I’m currently working on **Blockchain Based Crowdfunding Applications**
 
-- 🌱 I’m currently studying **DJango , React JS**
+- 🌱 I’m currently studying **Blockchain Development , React JS**
 
-- 👯 I’m looking to collaborate on **full stack web development project**
+- 👯 I’m looking to collaborate on **Web Development Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
