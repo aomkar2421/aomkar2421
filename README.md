@@ -1,6 +1,6 @@
 ![logo](https://github.com/aomkar2421/aomkar2421/blob/main/20240131_231805.jpg)
 <h1 align="center">Hi 👋, I'm Omkar Jagtap</h1>
-<h3 align="center">Eager to contribute my skills and passion for web development to a dynamic team, I am poised to make a positive impact and grow as a professional in the field.</h3>
+<h3 align="center">With expertise in JAVA stack & MERN stack complemented by Data Structures & Algorithms (DSA), I am poised to leverage my skills and enthusiasm to make meaningful contributions to organization while continuously honing my abilities.</h3>
 
 <img align="left" src="Couple Laptop System Coding.gif" alt="coding" width="400">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Blockchain Based Crowdfunding Applications**
 
-- 🌱 I’m currently studying **Blockchain Development , React JS**
+- 🌱 I’m currently studying **Blockchain Development , SpringBoot**
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
