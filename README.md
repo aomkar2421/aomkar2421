@@ -1,5 +1,5 @@
 ![logo](https://github.com/aomkar2421/aomkar2421/blob/main/20240131_231805.jpg)
-<h1 align="center">Hi 👋, I'm Omkar Sanjay Jagtap</h1>
+<h1 align="center">Hi 👋, I'm Omkar Jagtap</h1>
 <h3 align="center">Eager to contribute my skills and passion for web development to a dynamic team, I am poised to make a positive impact and grow as a professional in the field.</h3>
 
 <img align="left" src="Couple Laptop System Coding.gif" alt="coding" width="400">
