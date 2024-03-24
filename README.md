@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aomkar2421&label=Profile%20views&color=0e75b6&style=flat" alt="aomkar2421" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Based Crowdfunding Applications**
+- 🔭 I’m currently working on **MERN ECOMERCE WEBSITE**
 
 - 🌱 I’m currently studying **Blockchain Development , SpringBoot**
 
