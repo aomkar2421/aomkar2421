@@ -1,6 +1,6 @@
 ![logo](https://github.com/aomkar2421/aomkar2421/blob/main/20240131_231805.jpg)
 <h1 align="center">Hi 👋, I'm Omkar Jagtap</h1>
-<h3 align="center">With expertise in JAVA stack & MERN stack complemented by Data Structures & Algorithms (DSA), I am poised to leverage my skills and enthusiasm to make meaningful contributions to organization while continuously honing my abilities.</h3>
+<h3 align="center">With expertise in JAVA, Spring, Springboot & MERN stack complemented by Data Structures & Algorithms (DSA), I am poised to leverage my skills and enthusiasm to make meaningful contributions to organization while continuously honing my abilities.</h3>
 
 <img align="left" src="Couple Laptop System Coding.gif" alt="coding" width="400">
 
@@ -28,7 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg](https://imgs.search.brave.com/GDmB-Mfvtk8Ut173-a0ezEZATvvL3bFAnGr4FQ3uaBw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9zcHJpbmctYm9v/dC0xLnN2Zw)" alt="springboot" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="springboot" width="40" height="40"/> 
   </a> 
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
